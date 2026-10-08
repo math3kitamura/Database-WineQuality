@@ -117,13 +117,7 @@ A aplicação:
 <!-- LINKS_INICIO -->
 ## Links da entrega
 
-- **GitHub:** PENDENTE
-- **Streamlit:** PENDENTE
+- **GitHub:** https://github.com/math3kitamura/Database-WineQuality
+- **Streamlit:** https://database-winequality-k3grz48yw7wzuj8sgaijtm.streamlit.app/
 <!-- LINKS_FIM -->
-
-
-```python
-URL_GITHUB = "https://github.com/seu-usuario/seu-repositorio"
-URL_STREAMLIT = "https://seu-app.streamlit.app"
-```
 

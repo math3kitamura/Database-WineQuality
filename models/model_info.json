@@ -3,11 +3,11 @@
   "configuracao": "Optuna",
   "mae_treino": 0.26209965522839745,
   "mae_cv": 0.5032622385040811,
-  "std_cv": 0.02161076448565366,
+  "std_cv": 0.021610764485653647,
   "gap_treino_cv": 0.24116258327568368,
-  "mae_teste": 0.471310877798266,
-  "rmse_teste": 0.6173747959617019,
-  "r2_teste": 0.4619206816503769,
+  "mae_teste": 0.4713108777982659,
+  "rmse_teste": 0.6173747959617018,
+  "r2_teste": 0.46192068165037703,
   "paridade": {
     "entrada": {
       "fixed acidity": 6.6,
@@ -23,6 +23,6 @@
       "alcohol": 11.5
     },
     "quality_real": 6.0,
-    "previsao_notebook": 6.0024245754245715
+    "previsao_notebook": 6.002424575424573
   }
 }
